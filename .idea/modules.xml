@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit.iml" filepath="$PROJECT_DIR$/rabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-direct-consumer/rabbit-direct-consumer.iml" filepath="$PROJECT_DIR$/rabbit-direct-consumer/rabbit-direct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-direct-provider/rabbit-direct-provider.iml" filepath="$PROJECT_DIR$/rabbit-direct-provider/rabbit-direct-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-topic-provider/rabbit-direct-provider (1).iml" filepath="$PROJECT_DIR$/rabbit-topic-provider/rabbit-direct-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-topic-consumer/rabbit-topic-consumer.iml" filepath="$PROJECT_DIR$/rabbit-topic-consumer/rabbit-topic-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-topic-provider/rabbit-topic-provider.iml" filepath="$PROJECT_DIR$/rabbit-topic-provider/rabbit-topic-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-topic-consumer/src/test/test.iml" filepath="$PROJECT_DIR$/rabbit-topic-consumer/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

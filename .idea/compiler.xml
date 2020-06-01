@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rabbit-direct-provider" />
+        <module name="rabbit-direct-provider (1)" />
+        <module name="rabbit" />
+        <module name="rabbit-topic-consumer" />
+        <module name="hello" />
+        <module name="rabbit-direct-consumer" />
+        <module name="rabbit-topic-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hello" target="1.8" />
+      <module name="rabbit" target="1.8" />
+      <module name="rabbit-direct-consumer" target="1.8" />
+      <module name="rabbit-direct-consumer (1)" target="1.8" />
+      <module name="rabbit-direct-provider" target="1.8" />
+      <module name="rabbit-direct-provider (1)" target="1.8" />
+      <module name="rabbit-topic-consumer" target="1.8" />
+      <module name="rabbit-topic-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hello" options="-parameters" />
+      <module name="rabbit" options="-parameters" />
+      <module name="rabbit-direct-consumer" options="-parameters" />
+      <module name="rabbit-direct-consumer (1)" options="-parameters" />
+      <module name="rabbit-direct-provider" options="-parameters" />
+      <module name="rabbit-direct-provider (1)" options="-parameters" />
+      <module name="rabbit-topic-consumer" options="-parameters" />
+      <module name="rabbit-topic-provider" options="-parameters" />
+    </option>
+  </component>
+</project>
